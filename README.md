@@ -1,0 +1,1 @@
+# gamePrivacy-policy
